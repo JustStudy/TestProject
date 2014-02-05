@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestProject</string>
+    <string name="opening_text">This project written by Test tasks.
+        Shows random information in list view.
+        Please, press on button below for launch.
+    </string>
+     <string name="just_press">Please, press to read more about </string>
+
+    <!-- array_of_titles  -->
+    <string-array name="array_of_headers">
+        <item>Valentina</item>
+        <item>Ruslana</item>
+        <item>Tamara</item>
+        <item>Pauline</item>
+        <item>Larisa</item>
+        <item>Marina</item>
+        <item>Diana</item>
+        <item>Elena</item>
+        <item>Bella</item>
+        <item>Ann</item>
+    </string-array>
+
+    <!-- array_of_descriptions  -->
+    <string-array name="description_array">
+        <item>Valentina light, like something in the spring sun temper.
+            She can easily flare up, quarrel with her best friend,
+            but not take more than two minutes, it is ready to go for reconciliation.
+        </item>
+        <item>Typically, this is an attractive and sensual woman.
+            Ruslana chooses husband a long time. However, married, becomes a model hostess.
+        </item>
+        <item>Tamara almost always is the leader in the family.
+            She is independent, is used to relying on their own strength.
+        </item>
+        <item>Pauline loves to dress up, has excellent taste, but economical,
+            rather sew your attire itself, rather than spend on the shopping thing.
+        </item>
+        <item>Larisa does not impose their ideas and others experiences,
+            although many take to heart as easily vulnerable.
+        </item>
+        <item>Marina high opinion of himself.
+            A beautiful Marina often overestimates himself even.
+        </item>
+        <item>Name Diana sounds hard, and in the character of this girl
+            really quite pragmatic, even hardness and obstinacy.
+            Because of these qualities it is possible to achieve success in life.
+        </item>
+        <item>Elena will likely not marry a rich and beautiful, and she prefers a man who regret.
+            Not sparing herself in her sacrificial love, Elena expects the same attitude.
+        </item>
+        <item>Bella principle and prudence, though often acts impulsively.
+            Communicative and sociable, quickly making new acquaintances.
+        </item>
+        <item>Ann never forgets about her appearance - she knows how to dress nicely,
+            just visit the hairdresser.
+        </item>
+    </string-array>
+</resources>
